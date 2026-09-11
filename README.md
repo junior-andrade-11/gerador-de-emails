@@ -27,6 +27,8 @@ Reduz o tempo gasto redigindo e-mails recorrentes, além de ajudar na padroniza�
 
 **Link:** 👉 [Acessar aplicação](https://junior-andrade-11.github.io/gerador-de-emails/)
 
+<img width="1887" height="857" alt="image" src="https://github.com/user-attachments/assets/18e96cca-61f1-4772-bd8a-e6680ccefb64" />
+
 ## 💡 Contexto
 
 Criado para agilizar tarefas repetitivas do setor de Compras e reduzir o tempo gasto na elaboração manual de e-mails.
