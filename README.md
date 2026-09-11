@@ -25,7 +25,7 @@ Reduz o tempo gasto redigindo e-mails recorrentes, além de ajudar na padroniza�
 
 ## 🚀 Demonstração
 
-**Link:** `[ADICIONE AQUI O LINK DO GITHUB PAGES]`
+**Link:** 👉 [Acessar aplicação](https://junior-andrade-11.github.io/gerador-de-emails/)
 
 ## 💡 Contexto
 
